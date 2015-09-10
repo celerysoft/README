@@ -1,2 +1,5 @@
 # Windows
 *.lnk
+
+# Mac OS
+.DS_Store
